@@ -7,6 +7,7 @@ win11作为客户端，ubuntu虚拟机作为服务器，通信、命令执行没
 
 ---
 
+```
 remote_control/
 │
 ├── server/
@@ -26,4 +27,6 @@ remote_control/
 ├── init.py
 ├── crypto.py        # 加密通信
 └── network.py       # 网络传输
+```
+
 ![image](https://github.com/user-attachments/assets/3db76ba4-aa94-4c24-9530-f7197c365f25)
